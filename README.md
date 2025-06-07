@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Victoria and I'm a</h2>
+<h2 align="left">Hi 👋! My name is Victoria </h2>
 
 ###
 
@@ -35,9 +35,6 @@
 
 ###
 
-<img align="right" height="" src=""  />
-
-###
 
 
 
