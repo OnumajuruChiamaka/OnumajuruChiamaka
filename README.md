@@ -36,6 +36,8 @@ print("hello world!")
 [Linkedin](https://www.linkedin.com/in/chiamaka-onumajuru-a11737196/)
 
 
+[This takes you to a folder](https://github.com/OnumajuruChiamaka/Demo/tree/main/folder)
+
 
 <!--
 **OnumajuruChiamaka/OnumajuruChiamaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
