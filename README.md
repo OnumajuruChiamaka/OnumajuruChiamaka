@@ -1,5 +1,42 @@
 ## Hi there 👋
 
+
+My name is Chiamaka
+
+I am a data analyst
+
+# Mission
+My mission is to help others.
+
+## vision
+My vision is to be a fincial data anaylst<
+------
+***
+
+For a code
+
+
+```
+print("hello world!")
+
+```
+
+* one
+* Two
+* Three
+  * one
+  * Two
+  *   
+
+- one
+- Two
+
+
+
+
+
+
+
 <!--
 **OnumajuruChiamaka/OnumajuruChiamaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
